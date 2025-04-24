@@ -1,0 +1,1 @@
+Se aplicaron técnicas de clusterización para segmentar clientes en el sector telecomunicaciones. El modelo jerárquico con 3 clústeres fue el más eficaz (Silhouette: 0.497). Este análisis apoya estrategias de retención y personalización comercial.
